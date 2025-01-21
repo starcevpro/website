@@ -1,0 +1,8 @@
+$font-family-base: 'Roboto', system-ui, -apple-system, sans-serif;
+
+:root {
+  font-family: $font-family-base;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Starcev - Web Developer",
+  "home": {
+    "typeHello": "Hello,",
+    "typeIam": "I am Evgeny Starcev",
+    "create": "I create complex web solutions",
+    "develop": "— from developing user interfaces to building scalable server architectures."
+  },
+  "scrollDown": "Scroll down"
+}
